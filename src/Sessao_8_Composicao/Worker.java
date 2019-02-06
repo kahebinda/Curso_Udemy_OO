@@ -85,8 +85,6 @@ public class Worker {
 					soma += c.totalValeu();
 			}
 		}
-		
-		
 		return soma;
 	}
 	
